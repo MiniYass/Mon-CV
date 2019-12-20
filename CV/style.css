@@ -1,0 +1,67 @@
+html{
+    font-family: 'Bree Serif', serif;
+    background: #3181CE;
+    background: -moz-linear-gradient(45deg, #3181CE 0%, #A6C59A 100%);
+    background: -webkit-linear-gradient(45deg, #3181CE 0%, #A6C59A 100%);
+    background: linear-gradient(45deg, #3181CE 0%, #A6C59A 100%);
+}
+img{
+    margin:65px;
+    padding:5px;
+    align-items: center;
+    width: 12em;
+}
+h1{
+    margin: 100px;
+    color:white;
+    text-align: center;
+}
+.h2G{
+    color:white;
+    text-align: center;
+    margin:5px;
+}
+
+.corp{
+    display:inline-flex;
+    width: 50%;
+    padding:20px;
+    border:3px solid white;
+    margin:20px;
+    font-size: 20px;
+    margin-left:350px;
+    margin-top: 30px;
+    padding-top:50px;
+}
+
+.Texte{
+    color: white;
+    text-align: center;
+    border-left:3px dotted #FFFFFF;
+    padding-left: 10px;
+    margin:15px;
+}
+
+#Eciv:hover{
+    color:grey;
+    opacity:100%;
+}
+
+#Eciv{
+    
+   color:lightgrey;
+    text-align: center;
+    position:fixed;
+    height: 80%;
+    border:2px solid white;
+    margin-left: 80%;
+    padding:8px;
+    background: #CCFFE5;
+    background: -moz-linear-gradient(left, #CCFFE5 0%, #FFFFFF 100%);
+    background: -webkit-linear-gradient(left, #CCFFE5 0%, #FFFFFF 100%);
+    background: linear-gradient(to right, #CCFFE5 0%, #FFFFFF 100%); 
+    
+    
+    
+
+}
