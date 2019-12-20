@@ -48,8 +48,8 @@ h1{
 }
 
 #Eciv{
-    
-   color:lightgrey;
+    margin-right: 50px;
+    color:lightgrey;
     text-align: center;
     position:fixed;
     height: 80%;
